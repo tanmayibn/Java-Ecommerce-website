@@ -1,0 +1,2 @@
+# Java-Ecommerce-website
+This project is a practical implementation of Java based e-commerce shopping cart website developed using JSP and Servlets. It includes features like user authentication, product management, shopping cart functionality, order processing, and order management. It demonstrates how to set up a web project, design a user interface with Bootstrap, connect to a database, and handle various e-commerce operations. This project serves as a hands-on guide for learning Java web development practices in the context of e-commerce.
